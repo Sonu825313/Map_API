@@ -1,6 +1,6 @@
 
  // Api access token to configure Mapbox GL JS,
-mapboxgl.accessToken = 'pk.eyJ1IjoicHJvamVjdDEyIiwiYSI6ImNsYzRoZm00ajA1NDIzb3Q3eHdrYmVoNGEifQ.-oz_nX22r92xgFt8ap__qA';
+mapboxgl.accessToken = '';
 
 navigator.geolocation.getCurrentPosition(successLocation, 
     errorLocation, {
